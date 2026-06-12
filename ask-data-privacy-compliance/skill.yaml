@@ -1,7 +1,7 @@
 name: ask-data-privacy-compliance
 version: 1.0.0
 category: coding
-description: Menjamin enkripsi data sensitif tingkat kolom dan sanitasi log dari kebocoran PII.
+description: Menjamin enkripsi data sensitif pada tingkat kolom database dan melakukan sanitasi log agar terhindar dari kebocoran PII.
 tags:
   - privacy
   - gdpr

@@ -1,6 +1,6 @@
 ---
 name: ask-auth-identity-expert
-description: Mengaudit alur otentikasi ketat (OAuth2, MFA, rotasi token, dan RBAC).
+description: Mengaudit alur otentikasi ketat (OAuth2, MFA, rotasi token, dan Role-Based Access Control/RBAC).
 triggers: ["auth audit", "oauth2", "jwt security", "mfa", "rbac", "token rotation", "login flow", "authentication"]
 ---
 

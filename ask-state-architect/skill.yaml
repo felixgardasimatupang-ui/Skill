@@ -1,7 +1,7 @@
 name: ask-state-architect
 version: 1.0.0
 category: coding
-description: Merancang manajemen state kompleks di frontend dan sinkronisasinya dengan server.
+description: Mengatur manajemen state kompleks di frontend (Zustand/Redux) serta sinkronisasi datanya dengan server.
 tags:
   - state-management
   - react

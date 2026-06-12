@@ -1,6 +1,6 @@
 ---
 name: ask-llm-integration-expert
-description: Mengelola arsitektur fitur AI, pembatasan biaya API, dan integrasi Vector DB.
+description: Merancang arsitektur fitur berbasis kecerdasan buatan, mengelola efisiensi token, menangani batasan request (rate limiting), serta integrasi database vektor (Vector DB).
 triggers: ["llm integration", "ai feature", "vector database", "rag", "semantic search", "token cost", "openai", "langchain"]
 ---
 

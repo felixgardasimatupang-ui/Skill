@@ -1,7 +1,7 @@
 name: ask-query-optimizer
 version: 1.0.0
 category: coding
-description: Menganalisis bottleneck performa, indeks database, dan optimasi query (ORM/SQL).
+description: Menganalisis bottleneck performa, mengaudit indeks database, dan mengoptimalkan query ORM/SQL mentah.
 tags:
   - query-optimization
   - database-tuning

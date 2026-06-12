@@ -1,6 +1,6 @@
 ---
 name: ask-caching-architect
-description: Merancang strategi caching (Redis/Memcached) dan mitigasi cache invalidation.
+description: Merancang arsitektur caching (Redis/Memcached) dan menentukan strategi penanganan cache invalidation.
 triggers: ["cache strategy", "redis", "cache invalidation", "caching", "response time", "reduce latency"]
 ---
 

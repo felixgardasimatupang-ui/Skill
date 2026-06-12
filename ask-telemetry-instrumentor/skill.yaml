@@ -1,7 +1,7 @@
 name: ask-telemetry-instrumentor
 version: 1.0.0
 category: coding
-description: Otomatisasi injeksi kode instrumentasi pelacakan error (OpenTelemetry, Sentry).
+description: Otomatisasi injeksi kode instrumentasi untuk pelacakan performa dan error (OpenTelemetry, Sentry, atau Prometheus).
 tags:
   - opentelemetry
   - sentry

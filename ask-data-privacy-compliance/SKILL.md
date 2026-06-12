@@ -1,6 +1,6 @@
 ---
 name: ask-data-privacy-compliance
-description: Menjamin enkripsi data sensitif tingkat kolom dan sanitasi log dari kebocoran PII.
+description: Menjamin enkripsi data sensitif pada tingkat kolom database dan melakukan sanitasi log agar terhindar dari kebocoran PII.
 triggers: ["pii", "gdpr", "data privacy", "encrypt column", "log sanitization", "data compliance", "sensitive data"]
 ---
 

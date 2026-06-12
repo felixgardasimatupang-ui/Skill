@@ -1,6 +1,6 @@
 ---
 name: ask-telemetry-instrumentor
-description: Otomatisasi injeksi kode instrumentasi pelacakan error (OpenTelemetry, Sentry).
+description: Otomatisasi injeksi kode instrumentasi untuk pelacakan performa dan error (OpenTelemetry, Sentry, atau Prometheus).
 triggers: ["opentelemetry", "sentry", "instrumentation", "error tracking", "distributed tracing", "apm"]
 ---
 

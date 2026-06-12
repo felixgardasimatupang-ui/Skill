@@ -1,7 +1,7 @@
 name: ask-caching-architect
 version: 1.0.0
 category: coding
-description: Merancang strategi caching (Redis/Memcached) dan mitigasi cache invalidation.
+description: Merancang arsitektur caching (Redis/Memcached) dan menentukan strategi penanganan cache invalidation.
 tags:
   - caching
   - redis

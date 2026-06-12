@@ -1,6 +1,6 @@
 ---
 name: ask-query-optimizer
-description: Menganalisis bottleneck performa, indeks database, dan optimasi query (ORM/SQL).
+description: Menganalisis bottleneck performa, mengaudit indeks database, dan mengoptimalkan query ORM/SQL mentah.
 triggers: ["slow query", "database bottleneck", "optimize query", "n+1 problem", "index tuning", "query performance"]
 ---
 

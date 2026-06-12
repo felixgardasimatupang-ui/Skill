@@ -1,6 +1,6 @@
 ---
 name: ask-state-architect
-description: Merancang manajemen state kompleks di frontend dan sinkronisasinya dengan server.
+description: Mengatur manajemen state kompleks di frontend (Zustand/Redux) serta sinkronisasi datanya dengan server.
 triggers: ["state management", "optimistic update", "data sync", "redux", "zustand", "pinia", "state architecture"]
 ---
 

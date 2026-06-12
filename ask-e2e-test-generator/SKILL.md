@@ -1,6 +1,6 @@
 ---
 name: ask-e2e-test-generator
-description: Membuat skrip pengujian ujung-ke-ujung (Playwright/Cypress) berbasis simulasi pengguna.
+description: Membuat skrip pengujian ujung-ke-ujung (E2E) otomatis menggunakan Playwright atau Cypress berdasarkan simulasi perilaku pengguna nyata.
 triggers: ["e2e test", "playwright", "cypress", "user flow test", "integration test", "browser test"]
 ---
 
