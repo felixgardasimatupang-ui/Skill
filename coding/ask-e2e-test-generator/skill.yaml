@@ -1,0 +1,17 @@
+name: ask-e2e-test-generator
+version: 1.0.0
+category: coding
+description: Membuat skrip pengujian ujung-ke-ujung (Playwright/Cypress) berbasis simulasi pengguna.
+tags:
+  - e2e-testing
+  - playwright
+  - cypress
+  - test-automation
+  - integration-testing
+  - user-flow
+agents:
+  - codex
+  - gemini
+  - claude
+  - antigravity
+  - cursor

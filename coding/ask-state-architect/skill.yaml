@@ -1,0 +1,19 @@
+name: ask-state-architect
+version: 1.0.0
+category: coding
+description: Merancang manajemen state kompleks di frontend dan sinkronisasinya dengan server.
+tags:
+  - state-management
+  - react
+  - vue
+  - frontend
+  - optimistic-ui
+  - data-sync
+  - redux
+  - zustand
+agents:
+  - codex
+  - gemini
+  - claude
+  - antigravity
+  - cursor

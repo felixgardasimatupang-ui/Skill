@@ -1,0 +1,17 @@
+name: ask-query-optimizer
+version: 1.0.0
+category: coding
+description: Menganalisis bottleneck performa, indeks database, dan optimasi query (ORM/SQL).
+tags:
+  - query-optimization
+  - database-tuning
+  - sql
+  - orm
+  - performance
+  - indexing
+agents:
+  - codex
+  - gemini
+  - claude
+  - antigravity
+  - cursor

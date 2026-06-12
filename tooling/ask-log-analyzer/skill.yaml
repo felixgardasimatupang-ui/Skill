@@ -1,0 +1,17 @@
+name: ask-log-analyzer
+version: 1.0.0
+category: tooling
+description: Mendeteksi anomali, pola error server, dan melacak trace ID dari frontend ke backend.
+tags:
+  - log-analysis
+  - anomaly-detection
+  - error-patterns
+  - tracing
+  - debugging
+  - observability
+agents:
+  - codex
+  - gemini
+  - claude
+  - antigravity
+  - cursor

@@ -1,0 +1,18 @@
+name: ask-telemetry-instrumentor
+version: 1.0.0
+category: coding
+description: Otomatisasi injeksi kode instrumentasi pelacakan error (OpenTelemetry, Sentry).
+tags:
+  - opentelemetry
+  - sentry
+  - telemetry
+  - observability
+  - tracing
+  - instrumentation
+  - error-tracking
+agents:
+  - codex
+  - gemini
+  - claude
+  - antigravity
+  - cursor

@@ -1,0 +1,17 @@
+name: ask-api-load-tester
+version: 1.0.0
+category: tooling
+description: Menguji ketahanan beban API (K6/Artillery) sebelum rilis ke tahap production.
+tags:
+  - load-testing
+  - k6
+  - artillery
+  - performance-testing
+  - stress-testing
+  - benchmark
+agents:
+  - codex
+  - gemini
+  - claude
+  - antigravity
+  - cursor

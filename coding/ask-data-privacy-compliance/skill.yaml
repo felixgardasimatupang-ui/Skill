@@ -1,0 +1,18 @@
+name: ask-data-privacy-compliance
+version: 1.0.0
+category: coding
+description: Menjamin enkripsi data sensitif tingkat kolom dan sanitasi log dari kebocoran PII.
+tags:
+  - privacy
+  - gdpr
+  - encryption
+  - pii
+  - data-protection
+  - compliance
+  - log-sanitization
+agents:
+  - codex
+  - gemini
+  - claude
+  - antigravity
+  - cursor

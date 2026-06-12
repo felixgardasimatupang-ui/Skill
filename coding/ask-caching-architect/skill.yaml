@@ -1,0 +1,17 @@
+name: ask-caching-architect
+version: 1.0.0
+category: coding
+description: Merancang strategi caching (Redis/Memcached) dan mitigasi cache invalidation.
+tags:
+  - caching
+  - redis
+  - memcached
+  - performance
+  - cache-strategy
+  - cache-invalidation
+agents:
+  - codex
+  - gemini
+  - claude
+  - antigravity
+  - cursor

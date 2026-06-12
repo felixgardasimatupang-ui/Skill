@@ -1,0 +1,18 @@
+name: ask-auth-identity-expert
+version: 1.0.0
+category: coding
+description: Mengaudit alur otentikasi ketat (OAuth2, MFA, rotasi token, dan RBAC).
+tags:
+  - authentication
+  - oauth2
+  - jwt
+  - mfa
+  - rbac
+  - token-rotation
+  - security
+agents:
+  - codex
+  - gemini
+  - claude
+  - antigravity
+  - cursor

@@ -1,0 +1,19 @@
+name: ask-llm-integration-expert
+version: 1.0.0
+category: coding
+description: Mengelola arsitektur fitur AI, pembatasan biaya API, dan integrasi Vector DB.
+tags:
+  - llm
+  - ai-integration
+  - vector-database
+  - semantic-search
+  - rag
+  - token-management
+  - cost-optimization
+  - langchain
+agents:
+  - codex
+  - gemini
+  - claude
+  - antigravity
+  - cursor
