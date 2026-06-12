@@ -4,28 +4,22 @@
 
 ## Struktur
 
+Semua skill **flat** di 1 folder — langsung `skills/<nama-skill>/`.
+
 ```
 skills/
-├── api-and-interface-design/        ← Project Lifecycle Skills (flat)
+├── api-and-interface-design/        ← Project Lifecycle Skills
 ├── test-driven-development/         ← 24 skills — fase SDLC
+├── ask-bug-finder/                  ← Agent Skill Kit (52 skills)
+├── ask-query-optimizer/             ← 10 baru: Data Layer, Security,
+├── ask-e2e-test-generator/          ← Day-2 Ops, Testing, AI
+├── ask-llm-integration-expert/
 ├── ...
-├── coding/                          ← Agent Skill Kit
-│   ├── ask-bug-finder/              ← 28 coding skills
-│   ├── ask-code-reviewer/
-│   └── ...
-├── planning/                        ← Agent Skill Kit
-│   ├── ask-brainstorm/              ← 5 planning skills
-│   ├── ask-buildmaster/
-│   └── ...
-├── tooling/                         ← Agent Skill Kit
-│   ├── ask-skill-creator/           ← 9 tooling skills
-│   ├── ask-pdf-processing/
-│   └── ...
-├── manifest.json                    ← Index seluruh ASK skills
-└── workflows/                       ← Workflow templates
+├── manifest.json
+└── workflows/
 ```
 
-**Total:** 66 skills (24 lifecycle + 42 Agent Skill Kit)
+**Total:** 76 skills (24 lifecycle + 52 Agent Skill Kit)
 
 ---
 
