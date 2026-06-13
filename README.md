@@ -110,6 +110,7 @@ skills/
 | `ask-skill-creator` | 1.0.0 | Skill creation guide |
 | `ask-smart-booking-test` | 2.1.0 | E2E booking test |
 | `ask-system-architect-prime` | 1.0.0 | System architecture audit |
+| `skill-suggester` | 1.0.0 | Pattern & skill suggestion from history |
 
 ---
 
