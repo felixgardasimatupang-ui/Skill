@@ -807,6 +807,58 @@
         "scan history"
       ],
       "path": "tooling/skill-suggester"
+    },
+    {
+      "name": "data-integrity-checker",
+      "description": "Validates data integrity before any CRUD operation to ensure accuracy, consistency, and no duplication",
+      "category": "coding",
+      "agents": [
+        "gemini",
+        "claude",
+        "codex"
+      ],
+      "version": "1.0.0",
+      "triggers": [
+        "cek integritas data",
+        "validasi data",
+        "check data integrity",
+        "filter data akurat"
+      ],
+      "path": "coding/data-integrity-checker"
+    },
+    {
+      "name": "auto-fix-loop-agent",
+      "description": "Automatically detects errors, fixes them in a loop without waiting for manual commands, and confirms when done",
+      "category": "tooling",
+      "agents": [
+        "gemini",
+        "claude",
+        "codex"
+      ],
+      "version": "1.0.0",
+      "triggers": [
+        "loop perbaiki otomatis",
+        "auto fix loop",
+        "error recovery loop"
+      ],
+      "path": "tooling/auto-fix-loop-agent"
+    },
+    {
+      "name": "plan-validator",
+      "description": "Reads Plan.md or PRD and verifies that implementation matches documented requirements",
+      "category": "planning",
+      "agents": [
+        "gemini",
+        "claude",
+        "codex"
+      ],
+      "version": "1.0.0",
+      "triggers": [
+        "baca plan",
+        "validasi implementasi",
+        "cek kesesuaian plan"
+      ],
+      "path": "planning/plan-validator"
     }
   ]
 }

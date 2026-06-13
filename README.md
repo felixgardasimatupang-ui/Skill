@@ -97,6 +97,15 @@ skills/
 | `ask-project-memory` | 1.0.0 | Project memory management |
 | `ask-solution-architect` | 1.0.0 | Multi-perspective ideation |
 
+### Custom / Utility Skills
+
+| Skill | Versi | Deskripsi |
+|-------|-------|-----------|
+| `skill-suggester` | 1.0.0 | Pattern & skill suggestion from history |
+| `auto-fix-loop-agent` | 1.0.0 | Auto error detection & fix loop |
+| `plan-validator` | 1.0.0 | Plan vs implementation checker |
+| `data-integrity-checker` | 1.0.0 | Pre-CRUD data integrity validation |
+
 ### Tooling Skills
 
 | Skill | Versi | Deskripsi |
@@ -110,9 +119,9 @@ skills/
 | `ask-skill-creator` | 1.0.0 | Skill creation guide |
 | `ask-smart-booking-test` | 2.1.0 | E2E booking test |
 | `ask-system-architect-prime` | 1.0.0 | System architecture audit |
-| `skill-suggester` | 1.0.0 | Pattern & skill suggestion from history |
-
 ---
+
+
 
 ## Struktur Skill
 
